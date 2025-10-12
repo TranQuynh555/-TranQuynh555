@@ -87,8 +87,9 @@
 
 <p align="left">
 
-  <!-- Gmail (chỉ hiện hình, không có link) -->
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+
   <!-- Facebook -->
   <a href="https://www.facebook.com/baclachoanh.05" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
