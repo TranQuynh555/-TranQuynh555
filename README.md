@@ -45,14 +45,43 @@
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=TranQuynh555&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" 
-       alt="TranQuynh555's GitHub Stats" 
-       width="460"/>
-</p>
+<div align="center">
 
----
+<!-- Thống kê chính -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=TranQuynh555&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+  alt="GitHub Stats" 
+  width="49%" 
+/>
+
+<!-- Biểu đồ ngôn ngữ -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Most Used Languages" 
+  width="49%" 
+/>
+
+<!-- Số lần đóng góp theo biểu đồ -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=TranQuynh555&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak" 
+  width="49%" 
+/>
+
+<!-- Trophies -->
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=TranQuynh555&theme=tokyonight&no-frame=true&margin-w=10" 
+  alt="GitHub Trophies" 
+  width="49%" 
+/>
+
+<!-- Biểu đồ hoạt động -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TranQuynh555&theme=tokyo-night&hide_border=true" 
+  alt="GitHub Activity Graph" 
+/>
+
+</div>
 
 ## 💻 Most Used Languages
 
