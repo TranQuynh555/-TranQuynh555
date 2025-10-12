@@ -51,21 +51,21 @@
 <img 
   src="https://github-readme-stats.vercel.app/api?username=TranQuynh555&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" 
   alt="GitHub Stats" 
-  width="55%" 
+  width="52%" 
 />
 
 <!-- Streak Stats -->
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=TranQuynh555&theme=react&hide_border=true" 
   alt="GitHub Streak Stats" 
-  width="55%" 
+  width="52%" 
 />
 
 <!-- Ngôn ngữ sử dụng nhiều nhất -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=react&hide_border=true" 
   alt="Most Used Languages" 
-  width="55%" 
+  width="52%" 
 />
 
 <!-- Trophies -->
