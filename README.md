@@ -36,7 +36,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-photoshop-48.png" width="48" alt="Photoshop"/>
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="48" alt="Illustrator"/>
-  <img src="https://raw.githubu48" alt="Blender"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="48" alt="Blender"/>
 </p>
 
 
@@ -61,10 +61,11 @@
 
 <!-- Ngôn ngữ sử dụng nhiều nhất -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=react&hide_border=true" 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1"/>
+/>
   alt="Most Used Languages" 
   width="52%" 
-/>
+  
 
 <!-- Trophies -->
 <img 
