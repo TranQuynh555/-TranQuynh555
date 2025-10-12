@@ -11,9 +11,11 @@
 ---
 
 ## 🌟 About Me
-- 🎨 **Passionate:** illustration and creative design  
-- 🌱 **Currently:** learning about software development and multimedia applications  
-- 🧩 **Hobby:** Designing interactive & visually appealing UI  
+
+- 🎨 **Passionate:** Enthusiastic about digital illustration, graphic design, and multimedia creativity.  
+- 💻 **Currently:** Learning and practicing multimedia application development, UI/UX design, and digital content production.  
+- 🧩 **Hobby:** Creating posters, editing videos, making motion graphics, and experimenting with new creative tools.  
+- 🎯 **Goals:** To become a multimedia designer who blends art and technology to create innovative products and immersive user experiences.  
 - 📫 **Email:** [n23dcpt051@student.ptithcm.edu.vn]
 
 ---
