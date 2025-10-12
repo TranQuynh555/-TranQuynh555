@@ -68,35 +68,6 @@
   width="48%" 
 />
 
-</div>
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Thống kê chính -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=TranQuynh555&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-  alt="GitHub Stats" 
-  width="49%" 
-/>
-
-<!-- Biểu đồ ngôn ngữ -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="Most Used Languages" 
-  width="49%" 
-/>
-
-<!-- Số lần đóng góp theo biểu đồ -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=TranQuynh555&theme=tokyonight&hide_border=true" 
-  alt="GitHub Streak" 
-  width="49%" 
-/>
-
 <!-- Trophies -->
 <img 
   src="https://github-profile-trophy.vercel.app/?username=TranQuynh555&theme=tokyonight&no-frame=true&margin-w=10" 
@@ -111,23 +82,6 @@
 />
 
 </div>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=tokyonight" 
-       alt="Most Used Languages" 
-       width="360"/>
-</p>
-
-## 📊 GitHub Stats
-<!-- change USERNAME below -->
-<p>
-  <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&count_private=true" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" />
-</p>
-<div style="clear: both;"></div>
 
 ---
 
