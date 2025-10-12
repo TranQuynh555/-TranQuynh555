@@ -27,43 +27,7 @@
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-html-48.png" width="48" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-css-48.png" width="48" alt="CSS"/>
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-javascript-100.png" width="48" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-python-24.png" width="48" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-visual-studio-code-2019-48.png" width="48" alt="VS Code"/>
-   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-node-js-48.png" width="48" alt="Node"/>
-</p>
-
-### 🎨 Design & Multimedia
-<p align="left">
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-photoshop-48.png" width="48" alt="Photoshop"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="48" alt="Illustrator"/>
-   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-blender-48.png" width="47" alt="Blender"/>
-</p>
-
-
----
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<!-- Thống kê tổng hợp -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=TranQuynh555&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" 
-  alt="GitHub Stats" 
-  width="52%" 
-/>
-
-<!-- Streak Stats -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=TranQuynh555&theme=react&hide_border=true" 
-  alt="GitHub Streak Stats" 
-  width="52%" 
-/>
-
-<!-- Biểu đồ ngôn ngữ -->
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="Most Used Languages" 
-  width="49%" 
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/im52%" 
 />
 
 <!-- Trophies -->
