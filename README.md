@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-javascript-100.png" width="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-python-24.png" width="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-visual-studio-code-2019-48.png" width="40" alt="VS Code"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-node-js-48.png" width="40" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-node-js-48.png" width="40" alt="Node"/>
 </p>
 
 ### 🎨 Design & Multimedia
@@ -84,6 +84,18 @@
 ---
 
 ## 🌐 Connect with Me
-- Gmail: n23dcpt051@student.ptithcm.edu.vn
-- Facebook: [facebook.com/yourprofile](https://facebook.com/yourprofile) 
-- Instagram: [instagram.com/yourprofile](https://instagram.com/yourprofile)
+
+<p align="left">
+
+  <!-- Gmail (chỉ hiện hình, không có link) -->
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/baclachoanh.05" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/nhuynhluu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
