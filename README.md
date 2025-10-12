@@ -43,6 +43,25 @@
 
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=TranQuynh555&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" 
+       alt="TranQuynh555's GitHub Stats" 
+       width="460"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=tokyonight" 
+       alt="Most Used Languages" 
+       width="360"/>
+</p>
 
 ## 📊 GitHub Stats
 <!-- change USERNAME below -->
@@ -54,7 +73,7 @@
 
 ---
 
-## 📫 Connect with Me
-- Gmail: `your.email@domain.com` <!-- CHANGE -->
-- Facebook: [facebook.com/yourprofile](https://facebook.com/yourprofile) <!-- optional -->
+## 🌐 Connect with Me
+- Gmail: n23dcpt051@student.ptithcm.edu.vn
+- Facebook: [facebook.com/yourprofile](https://facebook.com/yourprofile) 
 - Instagram: [instagram.com/yourprofile](https://instagram.com/yourprofile)
