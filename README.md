@@ -59,12 +59,12 @@
   width="52%" 
 />
 
-<!-- Ngôn ngữ sử dụng nhiều nhất -->
- <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1"/>
+<!-- Biểu đồ ngôn ngữ -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=tokyonight&hide_border=true" 
   alt="Most Used Languages" 
-  width="52%" 
-/>  
+  width="49%" 
+/>
 
 <!-- Trophies -->
 <img 
