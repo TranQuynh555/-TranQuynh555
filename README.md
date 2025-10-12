@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-javascript-100.png" width="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-python-24.png" width="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-visual-studio-code-2019-48.png" width="40" alt="VS Code"/>
-   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-node-js-48.png" width="40" alt="Node/>
+   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-node-js-48.png" width="40" alt="Node"/>
 </p>
 
 ### 🎨 Design & Multimedia
