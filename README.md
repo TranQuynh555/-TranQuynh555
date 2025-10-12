@@ -60,12 +60,11 @@
 />
 
 <!-- Ngôn ngữ sử dụng nhiều nhất -->
-<img 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1"/>
-/>
+ <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=1"/>
   alt="Most Used Languages" 
   width="52%" 
-  
+/>  
 
 <!-- Trophies -->
 <img 
