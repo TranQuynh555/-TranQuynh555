@@ -36,7 +36,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-photoshop-48.png" width="48" alt="Photoshop"/>
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="48" alt="Illustrator"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="48" alt="Blender"/>
+   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-blender-48.png" width="47" alt="Blender"/>
 </p>
 
 
