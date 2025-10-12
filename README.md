@@ -31,8 +31,9 @@
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-visual-studio-code-2019-48.png" width="40" alt="VS Code"/>
    <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-node-js-48.png" width="40" alt="Node/>
 </p>
-
-### 🎨 Design & Multimedia
+      
+<p>
+   ### 🎨 Design & Multimedia
 <p align="left">
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-photoshop-48.png" width="40" alt="Photoshop"/>
   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="40" alt="Illustrator"/>
