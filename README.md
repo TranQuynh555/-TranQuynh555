@@ -6,7 +6,7 @@
 
 🎓 **Student at** Posts and Telecommunications Institute of Technology (PTIT)  
 💻 **Major:** Multimedia Technology  
-🆔 **Student ID:** `N23DCPT006`  <!-- CHANGE if different -->
+🆔 **Student ID:** `N23DCPT051`  
 
 ---
 
@@ -14,7 +14,7 @@
 - 🎨 **Passionate:** illustration and creative design  
 - 🌱 **Currently:** learning about software development and multimedia applications  
 - 🧩 **Hobby:** Designing interactive & visually appealing UI  
-- 📫 **Email:** [your.email@domain.com](mailto:your.email@domain.com)  <!-- CHANGE -->
+- 📫 **Email:** [n23dcpt051@student.ptithcm.edu.vn]
 
 ---
 
