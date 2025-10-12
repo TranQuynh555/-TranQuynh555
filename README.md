@@ -1,7 +1,7 @@
 ## Hi there, I'm Huynh Luu Bao Tran👋
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/images/hero-cat.png" alt="hero" width="260"/>
+   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/f06f0b4e0a60023ea54706ac6cd3ce2eda540dba/images/Logo-cong-nghe-thong-tin-2.webp" alt="hero" width="260"/>
 </p>
 
 🎓 **Student at** Posts and Telecommunications Institute of Technology (PTIT)  
