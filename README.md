@@ -21,23 +21,23 @@
 ---
 
 ## 🧰 Tech Stack
-
-### Programming & Web
 <p>
-     <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-html-50.png" width="40" alt="HTML"/>
-  <img alt="HTML" src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/blob/727b73b51eba7e268c90b4c1e23dadb715a27622/images/icons8-html-50.png" width="48" />
-  <img alt="CSS"  src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/images/css.png"  width="48" />
-  <img alt="JS"   src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/images/js.png"   width="48" />
-  <img alt="Python" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/images/python.png" width="48" />
-  <img alt="Node" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/images/node.png" width="48" />
-  <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" />
+   ### 🧠 Programming & Web
+<p align="left">
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-html-48.png" width="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-css-48.png" width="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-javascript-100.png" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-python-24.png" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-visual-studio-code-2019-48.png" width="40" alt="VS Code"/>
 </p>
 
-### Design & Multimedia
-<p>
-  <img alt="PS" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/images/ps.png" width="48" />
-  <img alt="Ai" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/images/ai.png" width="48" />
-  <img alt="Pr" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/images/pr.png" width="48" />
+### 🎨 Design & Multimedia
+<p align="left">
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-photoshop-48.png" width="40" alt="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="40" alt="Illustrator"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-adobe-premiere-pro-48.png" width="40" alt="Premiere Pro"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-adobe-after-effects-48.png" width="40" alt="After Effects"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-blender-48.png" width="40" alt="Blender"/>
 </p>
 
 ---
