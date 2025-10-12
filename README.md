@@ -24,21 +24,19 @@
 
 ### 🧠 Programming & Web
 <p align="left">
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-html-48.png" width="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-css-48.png" width="40" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-javascript-100.png" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-python-24.png" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-visual-studio-code-2019-48.png" width="40" alt="VS Code"/>
-   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-node-js-48.png" width="40" alt="Node"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-html-48.png" width="48" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-css-48.png" width="48" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-javascript-100.png" width="48" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-python-24.png" width="48" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-visual-studio-code-2019-48.png" width="48" alt="VS Code"/>
+   <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-node-js-48.png" width="48" alt="Node"/>
 </p>
 
 ### 🎨 Design & Multimedia
 <p align="left">
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-photoshop-48.png" width="40" alt="Photoshop"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="40" alt="Illustrator"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-adobe-premiere-pro-48.png" width="40" alt="Premiere Pro"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-adobe-after-effects-48.png" width="40" alt="After Effects"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-blender-48.png" width="40" alt="Blender"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-photoshop-48.png" width="48" alt="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="48" alt="Illustrator"/>
+  <img src="https://raw.githubu48" alt="Blender"/>
 </p>
 
 
