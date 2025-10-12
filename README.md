@@ -66,6 +66,19 @@
   width="48%" 
 />
 
+<!-- Trophies -->
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=TranQuynh555&theme=tokyonight&no-frame=true&margin-w=10" 
+  alt="GitHub Trophies" 
+  width="49%" 
+/>
+
+<!-- Biểu đồ hoạt động -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=TranQuynh555&theme=tokyo-night&hide_border=true" 
+  alt="GitHub Activity Graph" 
+/>
+
 </div>
 ---
 
