@@ -24,27 +24,49 @@
 
 ### 🧠 Programming & Web
 <p align="left">
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-html-48.png" width="48" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-css-48.png" width="48" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-javascript-100.png" width="48" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/im52%" 
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-html-48.png" width="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-css-48.png" width="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-javascript-100.png" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-python-24.png" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-visual-studio-code-2019-48.png" width="40" alt="VS Code"/>
+</p>
+
+### 🎨 Design & Multimedia
+<p align="left">
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-photoshop-48.png" width="40" alt="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-illustrator-48.png" width="40" alt="Illustrator"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-adobe-premiere-pro-48.png" width="40" alt="Premiere Pro"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-adobe-after-effects-48.png" width="40" alt="After Effects"/>
+  <img src="https://raw.githubusercontent.com/TranQuynh555/TranQuynh555/main/images/icons8-blender-48.png" width="40" alt="Blender"/>
+</p>
+
+
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<!-- Thống kê tổng hợp -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=TranQuynh555&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" 
+  alt="GitHub Stats" 
+  width="48%" 
 />
 
-<!-- Trophies -->
+<!-- Streak Stats -->
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=TranQuynh555&theme=tokyonight&no-frame=true&margin-w=10" 
-  alt="GitHub Trophies" 
-  width="60%" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=TranQuynh555&theme=react&hide_border=true" 
+  alt="GitHub Streak Stats" 
+  width="48%" 
 />
 
-<!-- Biểu đồ hoạt động -->
+<!-- Ngôn ngữ sử dụng nhiều nhất -->
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=TranQuynh555&theme=tokyo-night&hide_border=true" 
-  alt="GitHub Activity Graph" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranQuynh555&layout=compact&theme=react&hide_border=true" 
+  alt="Most Used Languages" 
+  width="48%" 
 />
 
 </div>
-
 ---
 
 ## 🌐 Connect with Me
