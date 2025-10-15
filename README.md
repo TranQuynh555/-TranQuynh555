@@ -53,12 +53,7 @@
   width="48%" 
 />
 
-<!-- Streak Stats -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=TranQuynh555&theme=react&hide_border=true" 
-  alt="GitHub Streak Stats" 
-  width="48%" 
-/>
+
 
 <!-- Ngôn ngữ sử dụng nhiều nhất -->
 <img 
