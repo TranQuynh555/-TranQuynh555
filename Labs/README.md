@@ -1,5 +1,5 @@
 # TỔNG HỢP LINK GITHUB CÁC LABS
-💼 1. LAB-01-NMCNPM (ATM Mini Project)
+## 💼 1. LAB-01-NMCNPM (ATM Mini Project)
 
 🔗 Link Github LAB-01: https://github.com/n23dcpt006-nbin/NMCNPM-ATM
 
@@ -12,21 +12,23 @@
   - Selenium Test (Login & Withdraw)
 - Quản lý dự án với Jira theo mô hình Scrum
 
-🏨 LAB02 — Hotel Booking System
-📘 Repository: LAB02-HOTEL-BOOKING-SYSTEM
-🗂️ Jira Board: Hotel Booking System – Jira Backlog & Sprint Board
-📋 Nội dung chính
-🧩 Use Case Diagram
-🔄 Sequence Diagram
-🗃️ ERD & Database thiết kế
-📊 Jira Backlog & Commit Log minh họa quy trình làm việc
+## 🏨 LAB-02 — Hotel Booking System
 
-📘 LAB03 — Login Form
-🔗 Repository: LAB03-LOGIN-FORM
+🔗 Link Github LAB-02: https://github.com/TranQuynh555/Lad02_-Hotel-Booking-System
+
+⚙️ Nội dung chính
+- Use Case
+- Sequence Diagram*
+- ERD & Database
+- Jira Backlog & Commit log
+
+## 📘 LAB03 — Login Form
+
+🔗 Link Github LAB-03: 
+
 ⚙️ Chức năng
-✅ Đăng nhập thành công / thất bại với thông báo rõ ràng.
-⚠️ Cảnh báo lỗi: Khi bỏ trống username hoặc password.
-🔁 Chuyển hướng linh hoạt:
-Forgot Password
-Sign Up
-Social Login (Facebook, Google, v.v.)
+- Đăng nhập thành công / thất bại với thông báo rõ ràng.
+- Cảnh báo lỗi: Khi bỏ trống username hoặc password.
+- Chuyển hướng linh hoạt:Forgot Password, Sign Up, Social Login (Facebook, Google, v.v.)
+
+
