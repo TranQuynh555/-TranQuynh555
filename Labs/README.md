@@ -12,6 +12,5 @@
 
 ## 📘 LAB03 — Login Form
 
-🔗 Link Github LAB-03: https://github.com/TranQuynh555/Lab-03--Testing-software-login-form-/blob/main/README.md
-
+🔗 Link Github LAB-03: https://github.com/TranQuynh555/Lab-03--Testing-software-login-form-
 
