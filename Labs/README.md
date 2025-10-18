@@ -2,13 +2,13 @@
 💼 1. LAB-01-NMCNPM (ATM Mini Project)
 🔗 Link Github LAB-01: https://github.com/n23dcpt006-nbin/NMCNPM-ATM
 ⚙️ Chức năng nổi bật
-Đăng nhập: Xác thực người dùng từ cơ sở dữ liệu
-Rút tiền (Withdraw): Cập nhật số dư và lưu lịch sử giao dịch
-Xem số dư / Giao dịch: Truy vấn dữ liệu người dùng
-Kiểm thử tự động:
-  Unit Test (Python)
-  Selenium Test (Login & Withdraw)
-Quản lý dự án với Jira theo mô hình Scrum
+- Đăng nhập: Xác thực người dùng từ cơ sở dữ liệu
+- Rút tiền (Withdraw): Cập nhật số dư và lưu lịch sử giao dịch
+- Xem số dư / Giao dịch: Truy vấn dữ liệu người dùng
+- Kiểm thử tự động:
+  - Unit Test (Python)
+  - Selenium Test (Login & Withdraw)
+- Quản lý dự án với Jira theo mô hình Scrum
 
 🏨 LAB02 — Hotel Booking System
 📘 Repository: LAB02-HOTEL-BOOKING-SYSTEM
